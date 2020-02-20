@@ -1,4 +1,4 @@
-CREATE TABLE 'month'
+CREATE TABLE 'month' -- What ever the month you need, replace with 'month'
 (
 pitch_type char varying (10),
 game_date text,
