@@ -15,3 +15,4 @@ Instruction could be found [here](https://www.github.com/beanumber/statcastr), o
 ```{r, eval=FALSE}
 devtools::install_github("beanumber/statcastr")
 ```
+this is test for the brunching
