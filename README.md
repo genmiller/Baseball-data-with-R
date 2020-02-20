@@ -1,13 +1,6 @@
 
 # Baseball-data-with-R
-```{r setup, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
-```
+
 ## Object
 This personal project on working with Statcast data set. The object of this project is to:
 
@@ -18,7 +11,7 @@ This personal project on working with Statcast data set. The object of this proj
 
 ## Statcastr
 Before staring this project, make sure to get "statcastr" library installed.
-This could be installed from [here](https://www.github.com/beanumber/statcastr) or
+Instruction could be found [here](https://www.github.com/beanumber/statcastr), or simply run
 ```{r, eval=FALSE}
 devtools::install_github("beanumber/statcastr")
 ```
